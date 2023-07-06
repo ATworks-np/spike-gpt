@@ -1,0 +1,17 @@
+.App {
+  background-color: #282c34;
+  height: 95vh;
+  padding-left: 10%;
+  padding-right: 10%;
+  /*padding-top: 100px;*/
+  /*padding-bottom: 100px;*/
+}
+
+.Header {
+  background-color: #282c34;
+  height: 4vh;
+  /*padding-left: 10%;*/
+  /*padding-right: 10%;*/
+  /*padding-top: 100px;*/
+  /*padding-bottom: 100px;*/
+}
